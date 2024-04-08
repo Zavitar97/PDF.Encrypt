@@ -11,7 +11,7 @@ $$ |      $$$$$$$  |$$ |      \$$$$$$  |\$$$$$$  |\$$$$$$$ |$$ |      \$$$$$$$ |
                                                                                                         
 ```                                                                                                                                                                                                       
 # PDFGuardian
-This is a straightforward Java command-line tool developed by the LeonteqSecurity team for encrypting PDF files using the Apache PDFBox library. It enables you to protect your PDF documents with a password and specify the encryption key length.
+This is a straightforward Java command-line tool developed for encrypting PDF files using the Apache PDFBox library. It enables you to protect your PDF documents with a password and specify the encryption key length.
 ![Project Image](./snapShot/help.png)
 
 ## Usage
@@ -55,7 +55,7 @@ This tool depends on the Apache PDFBox library for working with PDF files.
 This project is licensed under the MIT License. Refer to the LICENSE file for detailed information.
 
 ## Acknowledgments
-This tool was developed by the LeonteqSecurity team using the Apache PDFBox library, an open-source project. Special thanks to the LeonteqSecurity team for providing a robust PDF manipulation tool.
+This tool was developed using the Apache PDFBox library, an open-source project.
 
 If you have any questions, encounter issues, or want to make suggestions, please don't hesitate to create an issue on GitHub. We value your feedback and contributions.
 
