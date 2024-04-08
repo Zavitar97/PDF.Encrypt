@@ -57,8 +57,6 @@ This project is licensed under the MIT License. Refer to the LICENSE file for de
 ## Acknowledgments
 This tool was developed using the Apache PDFBox library, an open-source project.
 
-If you have any questions, encounter issues, or want to make suggestions, please don't hesitate to create an issue on GitHub. We value your feedback and contributions.
-
 Enjoy secure PDF encryption!
 
 
